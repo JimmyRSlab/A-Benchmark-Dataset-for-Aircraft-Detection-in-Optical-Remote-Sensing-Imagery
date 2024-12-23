@@ -27,7 +27,7 @@ The dataset is available on the following links:
 
 **Baidu Driver**: https://pan.baidu.com/s/1wrR9IihjmDujEkbCL3g4oQ (extraction password: nuui)
 
-**Google Driver**: Coming soon.
+**Google Driver**: https://drive.google.com/drive/folders/19u3ksNgRAuY_vRpq6Z6eZAkeWa0L0N7L?usp=sharing.
 
 Star this project and we will update the corresponding data consistently. **If you want use our dataset, please follows these rules:**
 
